@@ -12,19 +12,21 @@ Example Project
 Life Expectancy and GDP Example Project
 
 Project Objectives:
-Complete a project to add to your portfolio
-Use seaborn and Matplotlib to create visualizations
-Become familiar with presenting and sharing data visualizations
-Preprocess, explore, and analyze data
+- Complete a project to add to your portfolio
+- Use seaborn and Matplotlib to create visualizations
+- Become familiar with presenting and sharing data visualizations
+- Preprocess, explore, and analyze data
 Prerequisites:
-Data Acquisition
-Data Visualization
-Hypothesis Testing
-Summarizing Quantitative Data
-Data Wrangling and Tidying
-Data Manipulation with Pandas
+- Data Acquisition
+- Data Visualization
+- Hypothesis Testing
+- Summarizing Quantitative Data
+- Data Wrangling and Tidying
+- Data Manipulation with Pandas
 ================================================================================
-1.Setting up the Project
+
+
+1. Setting up the Project
 First we will have to download our data from Life Expectancy and GDP project and make sure our directory is set up for Jupyter notebook.
 
 Hint:
@@ -36,7 +38,7 @@ In the command line, navigate into the unzipped file directory.
 Type the following into the command line: jupyter notebook This should open a browser tab.
 Click on life_expectancy_gdp.ipynb in the browser tab. This will open up your Jupyter Notebook.
 
-2.Setting up your Git Repository
+2. Setting up your Git Repository
 Create a new Git repository for this project.
 
 Hint:
